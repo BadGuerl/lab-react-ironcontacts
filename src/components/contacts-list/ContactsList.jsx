@@ -55,7 +55,7 @@ class ContactsList extends React.Component {
 
         return(
             <div className="App">
-                <h1 className="my-5 py-5">Iron Contacts</h1>
+                <h1 className="mt-5 py-4 bg-light">Iron Contacts</h1>
                 <div className="container">
                     <div className="row my-5">
                         <div className="col-4">
